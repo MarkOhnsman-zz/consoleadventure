@@ -33,10 +33,6 @@ namespace ConsoleAdventure.Project
             throw new System.NotImplementedException();
         }
 
-        public void Quit()
-        {
-            throw new System.NotImplementedException();
-        }
         ///<summary>
         ///Restarts the game 
         ///</summary>
