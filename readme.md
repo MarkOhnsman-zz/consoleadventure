@@ -1,7 +1,7 @@
 # Text Based Adventures
 <div class="text-center">
-    <img class="img-responsive" src="https://images.unsplash.com/photo-1543079470-4879e63be430?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/>
-</div>
+    <img class="img-responsiv" src="https://images.unsplash.com/photo-1543079470-4879e63be430?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/>
+</div> 
 <hr>
 
 Go North. Look. "You are facing the north side of a white house. There is no door here, and all the windows are boarded up. To the north a narrow path winds through the trees." These were the opening descriptions to the Zork one of the early text based adventures written in 1979. In this checkpoint we will be recreating some of the excitement from those early text based adventures, while covering C# basics utilizing .NET Core's console applications.
